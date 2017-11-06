@@ -2,11 +2,11 @@
 title: PhD Project
 ---
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
-PhD title: Does cognitive dissonance predict cross-domain belief consistency and online sharing of vegetarian dietary choices?
+*PhD title: Does cognitive dissonance predict cross-domain belief consistency and online sharing of vegetarian dietary choices?*
 
 This PhD project aims to investigate how social networks influence the perceived credibility of information shared online, with particular focus on exploring how psychological and social factors influence the promotion and adoption of vegetarian dietary choices.
 
-Partner organisations:
+*Partner organisations:*
 
 ![VegSoc logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg)
 
