@@ -2,5 +2,4 @@
 title: Test
 ---
 
-
-Hello World
+![ESRC logo](https://ChrisDNewton.github.com/logo.png)
