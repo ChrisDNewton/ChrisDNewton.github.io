@@ -3,4 +3,4 @@ title: Test
 ---
 
 ![ESRC logo]
-(https://ChrisDNewton.github.com/blob/master/logo.png)
+(https://github.com/ChrisDNewton/ChrisDNewton.github.io/blob/master/logo.png)
