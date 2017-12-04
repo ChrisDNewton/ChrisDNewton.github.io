@@ -14,7 +14,8 @@ This PhD project aims to investigate how social networks influence the perceived
 ![YouGov logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/yougov-uk-surveys-300x108.gif)
 
 <!-- VegSoc logo with link to website -->
-<a href="https://www.vegsoc.org/"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg"
+<a href="https://www.vegsoc.org/"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg" 
+  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"
   alt="VegSoc website"
   border="0" /></a>
 
