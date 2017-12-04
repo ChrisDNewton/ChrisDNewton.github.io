@@ -10,7 +10,7 @@ This PhD project aims to investigate how social networks influence the perceived
 
 **Partner organisations:**
 
-![VegSoc logo](https://www.vegsoc.org/)(https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg)
+![VegSoc logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg)[(https://www.vegsoc.org/)]
 ![YouGov logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/yougov-uk-surveys-300x108.gif)
 
 **Bio**
