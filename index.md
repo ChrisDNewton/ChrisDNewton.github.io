@@ -1,7 +1,7 @@
 ---
 title: Chris Newton - University of Manchester
 ---
-[Home](https://chrisdnewton.github.io/) [Biography](https://chrisdnewton.github.io/Bio)
+[Home   |   ](https://chrisdnewton.github.io/) [Biography   |   ](https://chrisdnewton.github.io/Bio)
 
 <!-- Header for the webpage in bold -->
 **PhD title: Does cognitive dissonance predict cross-domain belief consistency and online sharing of vegetarian dietary choices?**
