@@ -1,2 +1,2 @@
 # ChrisDNewton.github.io
-This is a placeholder for a readme.
+This my first GitHub repository, used as a central hub for linking to future projects.
