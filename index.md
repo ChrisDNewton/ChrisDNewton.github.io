@@ -15,7 +15,7 @@ This PhD project aims to investigate how social networks influence the perceived
 
 <a href="https://www.vegsoc.org/"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg"
   alt="VegSoc website"
-  width="72" height="46" border="0" /></a>
+  border="0" /></a>
 
 **Bio**
 
