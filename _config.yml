@@ -1,8 +1,4 @@
-<!-- This is a config file for the website-->
-<!-- Specify the Jekyll theme --> 
 theme: jekyll-theme-minimal
-
-<!-- Specify the title and subheader for all other pages. -->
 title: [Chris Newton]
 description: [PhD student in Data Analytics and Society at the University of Manchester]
 
