@@ -12,3 +12,5 @@ It will include some information about ABM, as well as details of the project, i
 
 It will include a link to the code in GitHub as well.
 
+![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.jpg)
+
