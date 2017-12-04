@@ -25,9 +25,5 @@ This PhD project aims to investigate how social networks influence the perceived
 
 For the module *Programming for Social Science: Core Skills* I have been learning some [agent-based modelling](https://chrisdnewton.github.io/AgentBasedModelling), and am developing some code for carrying out a Random Forest classification of survey data. More information on these projects will appear as they develop over the next few weeks.
 
-**Bio**
-
-Prior to commencing the PhD program I studied MSc Geographical Information Science at the University of Manchester, where my dissertation focussed on applying machine learning techniques to produce wildlife habitat maps from Sentinel-2A satellite imagery. Before this I studied Geography and Environmental Management at the University of the West of England and went on to work as technical admin support for the Environment Agency’s Air Quality Modelling and Assessment Unit and as a forestry administrator for the Soil Association.
-
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
 
