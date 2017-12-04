@@ -1,4 +1,3 @@
-<!-- State the title for the webpage -->
 ---
 title: Chris Newton - University of Manchester
 ---
