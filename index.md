@@ -10,8 +10,10 @@ This PhD project aims to investigate how social networks influence the perceived
 
 **Partner organisations:**
 
+<!-- this is how to do images in MD - commented out as now using HTML
 ![VegSoc logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg)
 ![YouGov logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/yougov-uk-surveys-300x108.gif)
+-->
 
 <!-- VegSoc logo with link to website -->
 <a href="https://www.vegsoc.org/"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/VEG_SOC_MASTER_FULL_COL_RGB_-300x179.jpg" 
