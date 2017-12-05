@@ -8,5 +8,6 @@ Prior to commencing the PhD program I studied MSc Geographical Information Scien
 <!-- LinkedIn profile -->
 <a href="https://www.linkedin.com/in/chris-newton-uom"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/LinkedInLogo.png" 
   alt="LinkedIn Profile"
-  border="0" /></a>
+  border="0" /></a>  
+[Back to main page](https://chrisdnewton.github.io/)
 
