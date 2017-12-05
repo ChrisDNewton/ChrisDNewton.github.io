@@ -7,6 +7,8 @@ title: Chris Newton - University of Manchester
 
 This PhD project aims to investigate how social networks influence the perceived credibility of information shared online, with particular focus on exploring how psychological and social factors influence the promotion and adoption of vegetarian dietary choices. 
 
+**Supervisors**: [Nick Shryane](https://www.research.manchester.ac.uk/portal/N.Shryane.html) and [Maria Pampaka](https://www.research.manchester.ac.uk/portal/Maria.Pampaka.html)
+
 **Partner organisations:**
 
 <!-- this is how to do images in MD - commented out as now using HTML
