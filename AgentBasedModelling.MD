@@ -8,8 +8,6 @@ title: Agent-based modelling
 
 **Assessment 1 - Agent-Based Modelling**
 
-*This is currently a placeholder page. When complete it will include a link to the [GitHub repository](https://github.com/ChrisDNewton/AgentBasedModel).*
-
 Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
 
 ABM lends itself well to analysing decision making behaviour in a range of modelled contexts. Previous ABM research has examined dietary behaviours (Conte & Paolucci, 2014), cognitive inconsistencies (Evans *et al.,* 2016) and behaviour change intervention strategies (Mercuur, 2015), so ABM may be highly relevant to my research project.
