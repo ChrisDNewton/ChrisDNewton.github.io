@@ -50,7 +50,6 @@ For this initial project, a simple ABM was created in which agents move around a
 ```
 
 ![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png)
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png" /></div>
 
 **References**
 
