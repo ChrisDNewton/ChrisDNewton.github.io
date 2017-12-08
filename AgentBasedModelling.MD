@@ -6,9 +6,9 @@ title: Agent-based modelling
 
 **Assessment 1 - Agent-Based Modelling**
 
-*This is currently a placeholder page.* 
-
-*When complete it will include snippets of code and a link to the GitHub repository.*
+*This is currently a placeholder page. When complete it will include* 
+`snippets of code` 
+*and a link to the [GitHub repository](https://github.com/ChrisDNewton).*
 
 Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
 
@@ -20,7 +20,7 @@ For this initial project, a simple ABM was created in which agents move around a
 
 **References**
 
-Conte, R. and Paolucci, M., (2014). On agent-based modeling and computational social science, *Frontiers in Psychology*, 5, 668.
+Conte, R. and Paolucci, M., (2014). On agent-based modeling and computational social science, *Frontiers in Psychology*, 5, pp.1-9.
 
 Evans, O., Stuhlmüller, A. and Goodman, N.D., (2016). Learning the Preferences of Ignorant, Inconsistent Agents, *Proceedings of the 30th AAAI Conference on Artificial Intelligence*, Phoenix, Arizona, USA. 12th-17th February 2016, pp. 323-329.
 
