@@ -6,21 +6,15 @@ title: Agent-based modelling
 
 **Assessment 1 - Agent-Based Modelling**
 
-This is currently a placeholder page. 
+*This is currently a placeholder page.* 
 
-It will include some information about ABM, as well as details of the project, images and snippets of code.
+*When complete it will include snippets of code and a link to the GitHub repository.*
 
-It will include a link to the code in GitHub as well.
+Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
 
-Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014).
+ABM lends itself well to analysing decision making behaviour in a range of modelled contexts. Previous ABM research has examined dietary behaviours (Conte & Paolucci, 2014), cognitive inconsistencies (Evans *et al.,* 2016) and behaviour change (Mercuur, 2015), so ABM may be highly relevant to my research project.
 
-They are used to observe emerging behavioural patterns...
-
-Used for testing policy impacts, traffic modelling, the spread of disease, economic behaviours... are increasingly fed real-time large datasets (Conte & Paolucci, 2014).
-
-For this project, a simple ABM was created in which agents move around an environment randomly, collecting a hypothetical resource from the environment and sharing the resource with any other neighbours they encounter within a specified distance.
-
-ABM lends itself well to analysing decision making behaviour in a range of modelled contexts. Previous ABM research has examed dietary behaviours (Conte & Paolucci, 2014), cognitive inconsistencies (Evans *et al.,* 2016) and behaviour change (Mercuur, 2015), so ABM may be highly relevant to my research project.
+For this initial project, a simple ABM was created in which agents move around an environment randomly, collecting a hypothetical resource from the environment and sharing the resource with any other agents they encounter on their travels.
 
 ![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png)
 
