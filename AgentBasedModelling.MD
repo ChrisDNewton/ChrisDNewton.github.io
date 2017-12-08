@@ -16,7 +16,7 @@ ABM lends itself well to analysing decision making behaviour in a range of model
 
 For this initial project, a simple ABM was created in which agents move around an environment randomly, collecting a hypothetical resource from the environment and sharing the resource with any other agents they encounter on their travels.
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png" /></div>
+![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png)
 
 **References**
 
