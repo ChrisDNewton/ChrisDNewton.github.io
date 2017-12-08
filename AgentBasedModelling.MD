@@ -8,7 +8,7 @@ title: Agent-based modelling
 
 **Assessment 1 - Agent-Based Modelling**
 
-*This is currently a placeholder page. When complete it will include a link to the [GitHub repository](https://github.com/ChrisDNewton).*
+*This is currently a placeholder page. When complete it will include a link to the [GitHub repository](https://github.com/ChrisDNewton/AgentBasedModel).*
 
 Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
 
@@ -50,6 +50,8 @@ For this initial project, a simple ABM was created in which agents move around a
 ```
 
 ![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png)
+
+The GitHub repository for the project can be found [here](https://github.com/ChrisDNewton/AgentBasedModel).
 
 **References**
 
