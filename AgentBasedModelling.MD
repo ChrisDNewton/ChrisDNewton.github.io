@@ -1,13 +1,19 @@
 ---
 title: Agent-based modelling
 ---
+<!--The theme for the page layout is specified in the _config.yml file as the 'Minimal' theme by GitHub user OrderedList (https://github.com/orderedlist/minimal). All the content below is my own work.-->
+
 <!-- Header for the webpage in bold -->
 **GEOG5995 Programming for Social Scientists: Core Skills**
 
 **Assessment 1 - Agent-Based Modelling**
 
 *This is currently a placeholder page. When complete it will include* 
-`snippets of code` 
+
+```python
+snippets of code
+``` 
+
 *and a link to the [GitHub repository](https://github.com/ChrisDNewton).*
 
 Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
@@ -17,6 +23,7 @@ ABM lends itself well to analysing decision making behaviour in a range of model
 For this initial project, a simple ABM was created in which agents move around an environment randomly, collecting a hypothetical resource from the environment and sharing the resource with any other agents they encounter on their travels.
 
 ![ABM image](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/ABM_image1.png" /></div>
 
 **References**
 
