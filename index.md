@@ -26,7 +26,9 @@ This PhD project aims to investigate how social networks influence the perceived
   alt="YouGov UK website"
   border="0" /></a>
 
-For the module *Programming for Social Science: Core Skills* I have been learning some [agent-based modelling](https://chrisdnewton.github.io/AgentBasedModelling), and am developing some code for carrying out a [Random Forest classification](https://chrisdnewton.github.io/RandomForest) of survey data. More information on these projects will appear as they develop over the next few weeks.
+For assessment 1 of the the module *Programming for Social Science: Core Skills* I have been learning some [agent-based modelling](https://chrisdnewton.github.io/AgentBasedModelling).
+
+For assessment 2, I am developing some code for data visualisation and analysis from the [British Social Attitudes Survey](https://chrisdnewton.github.io/RandomForest). 
 
 [Biography](https://chrisdnewton.github.io/Bio)
 
