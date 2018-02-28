@@ -30,7 +30,6 @@ For assessment 1 of the the module *Programming for Social Science: Core Skills*
 
 For assessment 2, I am developing some code for data visualisation and analysis from the [British Social Attitudes Survey](https://chrisdnewton.github.io/RandomForest). 
 
-[Biography](https://chrisdnewton.github.io/Bio)
 
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
 
