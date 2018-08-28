@@ -28,7 +28,7 @@ This PhD project aims to investigate how social networks influence the perceived
 
 **Portfolio**
 
-[Access to healthy assets and hazards and health in Greater Manchester](https://chrisdnewton.github.io/)
+[Access to healthy assets and hazards and health in Greater Manchester](https://github.com/ChrisDNewton/GreaterManchesterHealth/blob/master/Analysis%20of%20Indices%20of%20Multiple%20Deprivation%20and%20'Access%20to%20Healthy%20Assets%20and%20Hazards'%20Data%20in%20Greater%20Manchester%20(for%20GitHub).ipynb)
 
 [Agent-based modelling](https://chrisdnewton.github.io/AgentBasedModelling).
 
