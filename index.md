@@ -19,3 +19,5 @@ title: Chris Newton - University of Manchester
 
 ## [PhD research](https://chrisdnewton.github.io/Research)
 
+  *Using data science methods to explore social and psychological influences on dietary choices.*
+
