@@ -4,7 +4,7 @@ title: PhD research
 <!--The theme for the page layout is specified in the _config.yml file as the 'Minimal' theme by GitHub user OrderedList (https://github.com/orderedlist/minimal). All the content below is my own work.-->
 
 <!-- Header for the webpage in bold -->
-**PhD research**
+# PhD research
 
 **Does cognitive dissonance predict cross-domain belief consistency and online sharing of vegetarian dietary choices?**
 
