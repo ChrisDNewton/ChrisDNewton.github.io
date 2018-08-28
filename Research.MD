@@ -27,3 +27,5 @@ This PhD project aims to investigate how social networks influence the perceived
 
 <!-- Display an image with MD -->
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
+
+[Back to main page](https://chrisdnewton.github.io/)
