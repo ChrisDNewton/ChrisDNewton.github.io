@@ -4,9 +4,7 @@ title: Agent-based modelling
 <!--The theme for the page layout is specified in the _config.yml file as the 'Minimal' theme by GitHub user OrderedList (https://github.com/orderedlist/minimal). All the content below is my own work.-->
 
 <!-- Header for the webpage in bold -->
-**GEOG5995 Programming for Social Scientists: Core Skills**
-
-**Assessment 1 - Agent-Based Modelling**
+**Agent-Based Modelling**
 
 Agent based models (ABM) have been increasingly applied in computational social sciences since the 1970s (Conte and Paolucci, 2014). They are often used to observe emerging behavioural patterns and have been applied to research ranging from testing policy impacts, traffic modelling, the spread of disease, and economic behaviours (Conte & Paolucci, 2014).
 
