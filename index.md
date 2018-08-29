@@ -12,9 +12,10 @@ title: Chris Newton - University of Manchester
 
   *A simple example of agent-based modelling in Python.*
 
-## [Survey data visulisation](https://chrisdnewton.github.io/RandomForest) 
+## [Survey data visualisation](https://chrisdnewton.github.io/RandomForest) 
 
   *Some early explorations of British Social Attitudes Survey data in Python.*
+
 
 
 ## [PhD research](https://chrisdnewton.github.io/Research)
