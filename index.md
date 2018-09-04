@@ -4,7 +4,7 @@ title: Chris Newton - University of Manchester
 
 # **Data analytics portfolio**
 
-## [Using machine learning to predict dietary choices](https://github.com/ChrisDNewton/BSA2014/blob/master/Using%20Machine%20Learning%20to%20Predict%20Dietary%20Choices.ipynb)
+## [Using machine learning to predict dietary choices](https://chrisdnewton.github.io/RandomForest)
 
   *Applying multinomial logistic regression and a random forest classifier to survey data in R.*
 
