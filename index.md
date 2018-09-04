@@ -2,7 +2,7 @@
 title: Chris Newton - University of Manchester
 ---
 
-# **Data analytics portfolio**
+# **Projects**
 
 ## [Using machine learning to predict dietary choices](https://chrisdnewton.github.io/RandomForest)
 
