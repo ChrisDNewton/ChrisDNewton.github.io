@@ -1,13 +1,13 @@
 ---
-title: Survey Data Analysis
+title: Using machine learning to predict attitudes towards meat consumption
 ---
 <!-- Header for the webpage in bold -->
-**Survey Data Analysis**
+**Using machine learning to predict attitudes towards meat consumption**
 
-The intention of this project was to develop some code that may be relevant and useful to my PhD research, i.e. looking at social and psychological influences on people’s dietary choices. As I will mostly be working with survey data, it made sense to use this assessment as an opportunity to gain familiarity with the Pandas software library for the purpose of data exploration and statistical analysis. I chose the British Social Attitudes survey from 2014 (available [here](https://discover.ukdataservice.ac.uk/catalogue/?sn=7809)) as a data source for this project as it is freely available and features a great deal of demographic information as well as a range of questions about meat-eating behaviour and attitudes among the British public. Linear and logistic regression were chosen as appropriate statistical techniques for examining relationships between variables.
+Individual dietary choices are a complex phenomenon influenced by various economic, social and psychological constraints. Despite increasing evidence that current global levels of meat consumption are unsustainable environmentally, detrimental to human health and a driver of farming conditions resulting in low animal welfare, studies show that while meat-reduction appears to be on the rise, rates of vegetarianism or veganism in the UK have not significantly increased in recent years. This study attempts to develop predictive classification models of attitudes towards meat consumption based on demographic criteria and the answers to 3 survey questions on attitudes towards meat consumption. The findings are that even when controlling for reported attitudes towards meat consumption and demographic factors, predicting individual dietary behaviour still has a high degree of uncertainty. This may be due to latent factors such as normative considerations and the perceived difficulty of adopting more plant-based diets, which were not captured by the survey instrument. If this is the case, these findings may have implications for educational and campaigning groups wishing to develop communication strategies of behaviour change prompts, so further research in this area is required.
 
 ![Log Reg image](https://github.com/ChrisDNewton/ChrisDNewton.github.io/blob/master/LogisticRegressionImage.png?raw=true)
 
-Code for the project can be found [here](https://github.com/ChrisDNewton/GEOG5995_Assessment2).
+A Jupyter notebook for the project can be found [here](https://github.com/ChrisDNewton/BSA2014/blob/master/Using%20Machine%20Learning%20to%20Predict%20Dietary%20Choices.ipynb).
 
 [Back to main page](https://chrisdnewton.github.io/)
