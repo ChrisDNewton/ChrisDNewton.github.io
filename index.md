@@ -24,3 +24,4 @@ title: Chris Newton - University of Manchester
 
   *Using data science methods to explore social and psychological influences on dietary choices.*
 
+![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
