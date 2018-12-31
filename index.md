@@ -12,15 +12,13 @@ title: Chris Newton - University of Manchester
 
   *A simple example of agent-based modelling in Python.*
 
-
-
-
 ## [PhD research](https://chrisdnewton.github.io/Research)
 
   *Using data science methods to explore social and psychological influences on dietary choices.*
 
-
 ## [Using machine learning to predict dietary choices](https://chrisdnewton.github.io/RandomForest)
 
   *Applying multinomial logistic regression and a random forest classifier to survey data in R.*
+  
+  
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
