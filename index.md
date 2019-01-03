@@ -19,3 +19,8 @@ title: Chris Newton - University of Manchester
   
   
 ![ESRC logo](https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/logo.png)
+
+<!-- LinkedIn profile -->
+<a href="https://www.linkedin.com/in/chris-newton-uom"><img src="https://raw.githubusercontent.com/ChrisDNewton/ChrisDNewton.github.io/master/LinkedInLogo.png" 
+  alt="LinkedIn Profile"
+  border="0" /></a>
