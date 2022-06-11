@@ -6,6 +6,9 @@ title: Chris Newton - GIS & Data Analytics
 ## [MSc research](https://chrisdnewton.github.io/Research)
   *Using data science methods to explore social, economic and psychological influences on dietary choices.*
 
+## [Historic droughts in the media](https://chrisdnewton.github.io/droughtmap)
+ *Prototype interactive dashboard for the 'About Drought' project, using R packages Flexdashboard, Crosstalk, Leaflet, amongst others. Not all design choices were mine, so is a somewhat 'busy' interface.*  
+
 ## [Access to healthy assets and hazards affect on health in Greater Manchester](https://github.com/ChrisDNewton/GreaterManchesterHealth/blob/master/Analysis%20of%20Indices%20of%20Multiple%20Deprivation%20and%20'Access%20to%20Healthy%20Assets%20and%20Hazards'%20Data%20in%20Greater%20Manchester%20(for%20GitHub).ipynb)
   *Data visualisation, clustering and predictive modelling in Python.*
 
