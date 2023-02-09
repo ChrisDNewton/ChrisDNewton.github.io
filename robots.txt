@@ -1,0 +1,3 @@
+User-Agent: * 
+# testing detection of crawl delay:
+Crawl-delay: 30
