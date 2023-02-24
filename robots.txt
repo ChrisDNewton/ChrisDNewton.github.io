@@ -1,5 +1,3 @@
 User-Agent: * 
-# testing detection of disallow all:
-Disallow: /
 # testing detection of crawl delay:
-Crawl-delay: 30
+Crawl-delay: 5
