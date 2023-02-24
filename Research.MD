@@ -30,4 +30,4 @@ This project aims to investigate how social networks influence the perceived cre
 
 [Back to main page](https://chrisdnewton.github.io/)
 
-[...](https://chrisdnewton.github.io/test_page))
+[...](https://chrisdnewton.github.io/test_page)
