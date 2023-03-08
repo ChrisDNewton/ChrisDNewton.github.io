@@ -21,7 +21,7 @@ Other key phrases:
 * canine fertility services, pre-breeding advice.
 * pain management services, advanced practitioner in Veterinary Pain Management.
 * Geriatric clinic or Golden Oldie
-* 
+* Positive reinforcement, positive training
 
 [Back to main page](https://chrisdnewton.github.io/)
 
