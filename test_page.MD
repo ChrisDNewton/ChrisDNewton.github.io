@@ -22,6 +22,10 @@ Other key phrases:
 * pain management services, advanced practitioner in Veterinary Pain Management.
 * Geriatric clinic or Golden Oldie
 * Positive reinforcement, positive training
+* Pack, but not package or packages
+* Alpha, but not alphanumeric 
+* Dog whisperer, but not hotdog whisperer
+* Balanced training or balanced trainers but not new balance trainers.
 
 [Back to main page](https://chrisdnewton.github.io/)
 
