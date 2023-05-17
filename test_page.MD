@@ -11,7 +11,7 @@ title: This is a test page to check search terms are being picked up by webscrap
 * IACP
 * International Association of Canine Professionals
 
-* Positive reinforcement, positive training, postively reinforcing
+* Positive reinforcement, positive training, positively reinforcing
 * Pack, but not package or packages
 * Alpha, but not alphanumeric 
 * Dog whisperer, but not hotdog whisperer
