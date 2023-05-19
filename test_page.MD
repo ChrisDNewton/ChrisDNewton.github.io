@@ -38,6 +38,8 @@ Capture the context around the use of words like shock collar - what is being sa
 Capture the context around the use of words like prong collars - what is being said about them? Positive or negative context?
 Capture the context around the use of words like e-collars - what is being said about them? Positive or negative context?
 
+Does a website state "we do not use aversive methods" or mention aversive methods in a more positive context?
+
 [Back to main page](https://chrisdnewton.github.io/)
 
 
