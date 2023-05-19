@@ -40,6 +40,17 @@ Capture the context around the use of words like e-collars - what is being said 
 
 Does a website state "we do not use aversive methods" or mention aversive methods in a more positive context?
 
+Does it use naturalistic language like the below?
+```python
+"""
+'We believe in adhering to nature's way when training your 
+dog. Your dog's innate ability to sense the correct way to 
+sense your vibe is part of their natural instincts, in line 
+with mother nature AKA nature's design.'
+"""
+
+```
+
 [Back to main page](https://chrisdnewton.github.io/)
 
 
