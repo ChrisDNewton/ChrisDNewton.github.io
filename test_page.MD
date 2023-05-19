@@ -1,6 +1,4 @@
----
-title: This is a test page to check search terms are being picked up by webscraper
----
+# This is a test page to check search terms are being picked up by webscraper
 
 **Test page for webscraping script checks**
 
@@ -34,6 +32,11 @@ title: This is a test page to check search terms are being picked up by webscrap
                                          r"innate ability|natural|dog intuitive|"
                                          r"vibe|sense|natural|natural instincts", text.lower()))
 ```
+
+Capture the context around the use of words like choke chain - what is being said about them? Positive or negative context?
+Capture the context around the use of words like shock collar - what is being said about them? Positive or negative context?
+Capture the context around the use of words like prong collars - what is being said about them? Positive or negative context?
+Capture the context around the use of words like e-collars - what is being said about them? Positive or negative context?
 
 [Back to main page](https://chrisdnewton.github.io/)
 
