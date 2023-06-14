@@ -49,6 +49,18 @@ sense your vibe is part of their natural instincts, in line
 with mother nature AKA nature's design.'
 """
 
+Does a website mention:
+american bully
+american bullies
+bully xl
+xl bully
+xl bullies
+pocket bully
+pocket bullies
+bully
+bullies
+american bulldog
+?
 ```
 
 [Back to main page](https://chrisdnewton.github.io/)
