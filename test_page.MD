@@ -3,7 +3,7 @@
 **Test page for webscraping script checks**
 
 [Canine Hydrotherapy Association](https://www.canine-hydrotherapy.org/) 
-[National Association of Registered Canine Hydrotherapists]](https://www.narch.org.uk/)
+[National Association of Registered Canine Hydrotherapists](https://www.narch.org.uk/)
 [The Institute of Registered Veterinary & Animal Physiotherapists](https://www.irvap.org.uk/)
 
 vet referral
