@@ -6,11 +6,11 @@
 [National Association of Registered Canine Hydrotherapists](https://www.narch.org.uk/)
 [The Institute of Registered Veterinary & Animal Physiotherapists](https://www.irvap.org.uk/)
 
-vet referral
-veterinary referral
-hydrotherapy
-therapeutic
-physiotherapy
+* Does website mention if a vet referral is required?
+* Does website mention if a veterinary referral is required?
+* Is hydrotherapy mentioned, and if so, in what context?
+* Is therapeutic mentioned, and if so, in what context?
+* Is physiotherapy mentioned, and if so, in what context?
 
 [Back to main page](https://chrisdnewton.github.io/)
 
