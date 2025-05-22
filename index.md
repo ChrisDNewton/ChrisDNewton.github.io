@@ -1,8 +1,12 @@
 ---
-title: Chris Newton - GIS & Data Analytics
+title: Chris Newton
 ---
 
-# **Selection of Past Projects**
+# **Selection of Past Projects (most of which are quite old now)**
+
+## [Bristol R Users talk 2025-05-21](https://chrisdnewton.github.io/postcodes)
+  *A talk on working with postcode data in R.*
+
 ## [MSc research](https://chrisdnewton.github.io/Research)
   *Using data science methods to explore social, economic and psychological influences on dietary choices.*
 
